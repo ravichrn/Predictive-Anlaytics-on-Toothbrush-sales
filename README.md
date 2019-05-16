@@ -1,1 +1,1 @@
-# Predictive-Anlaytics-on-Toothbrush-sales
+Predictive Anlaytics on IRI Toothbrush sales dataset 
